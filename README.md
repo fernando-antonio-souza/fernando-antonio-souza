@@ -1,6 +1,6 @@
 ## Fernando Souza
 
-**`Estudande Eng.Software`**
+**`Estudante Engenharia de Software`**
 ---
 ### 🤖 Linguagens
 

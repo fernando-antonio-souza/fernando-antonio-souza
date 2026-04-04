@@ -1,6 +1,9 @@
 ## Fernando Souza
 
-**`Estudante Engenharia de Software`**
+**`Estudante Eng. Software`**
+
+Me chamo Fernando, tenho 25 anos e sou estudante de Eng. Software. 
+
 ---
 ### 🤖 Linguagens
 

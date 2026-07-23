@@ -40,6 +40,7 @@ Me chamo Fernando, tenho 25 anos e sou estudante de Eng. Software.
     title="LangChain"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/@thesvg/icons/icons/langchain.svg"
+    src="https://github.com/langchain-ai/langchain"><img src="https://skillicons.dev" alt="LangChain" /></a>
+"
 />
 

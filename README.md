@@ -1,443 +1,243 @@
-<!-- ========================================================= -->
-
-<!--                    HERO / HEADER                         -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,50:0f172a,100:111827&text=FERNANDO%20SOUZA&fontColor=00E5FF&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Python%20%7C%20Django%20%7C%20AI%20%7C%20Backend&descAlignY=62&descSize=17&animation=twinkling" width="100%"/>
+<!-- ============ BANNER PRINCIPAL (MATRIX TERMINAL) ============ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ffcc,100:0f0f0f&height=260&section=header&text=FERNANDO%20//%20SYSTEM%20ONLINE&fontSize=42&fontColor=00ffcc&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Python%20Architect&descAlignY=58&descAlign=50" width="100%"/>
 
-<br>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=%3E+Initializing+FernandoOS...;%3E+Building+software+that+solves+real+problems;%3E+Engineering+%7C+Artificial+Intelligence+%7C+Backend;%3E+System+status%3A+ONLINE+%E2%9C%93" alt="Typing Animation"/>
+<!-- ============ TYPING ANIMATION ============ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00FFCC&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Inicializando+sistema...;Carregando+m%C3%B3dulos+de+Engenharia+de+Software;Bem-vindo+%C3%A0+minha+central+de+opera%C3%A7%C3%B5es+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
-<br>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=SCANS%20DE%20PERFIL&color=00ffcc&style=for-the-badge)
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ffcc?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=0f0f0f)
+![Build](https://img.shields.io/badge/BUILD-STABLE-00ffcc?style=for-the-badge&logo=cachet&logoColor=white&labelColor=0f0f0f)
 
 </div>
 
----
+<br/>
 
-<!-- ========================================================= -->
+<!-- ============ SOBRE MIM ============ -->
+## `> whoami`
 
-<!--                    MATRIX TERMINAL                       -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-### `SYSTEM://BOOT_SEQUENCE`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    FERNANDO OS v2.0                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [✓] Kernel......................... ONLINE                 │
-│  [✓] Python Runtime................. ONLINE                 │
-│  [✓] Django Framework............... ONLINE                 │
-│  [✓] Artificial Intelligence....... ONLINE                 │
-│  [✓] Git / GitHub................... ONLINE                 │
-│  [✓] Continuous Learning............ ACTIVE                 │
-│                                                              │
-│  STATUS: BUILDING THE FUTURE...                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+```yaml
+core_identity:
+  name: "Fernando"
+  role: "Software Engineering Student & Python Developer"
+  location: "Minas Gerais, Brasil 🇧🇷"
+  focus: ["Python", "Django", "IA Aplicada", "Agentes Inteligentes"]
+  philosophy: "Simplicidade > Complexidade desnecessária"
+  current_directive: "Construir sistemas reais, não exercícios teóricos"
+  status: "Compilando conhecimento em tempo real..."
 ```
 
+<div align="center">
+
+🧠 Apaixonado por **Orientação a Objetos**, **arquitetura de software limpa** e por transformar ideias em **produtos funcionais**.
+⚙️ Atualmente explorando o universo de **Agentes de IA**, **LangChain/LangGraph** e integrações via **MCP**.
+🚀 Construtor do **Finanpy** — um sistema de gestão financeira pessoal full-stack.
+🎯 Acredito em aprender **fazendo**, não apenas lendo.
+
 </div>
 
-<br>
+<br/>
+
+<!-- ============ TECH STACK ============ -->
+## `> system.tech_stack`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/images/typing.gif" width="500" alt="Terminal Animation"/>
+### 🐍 Linguagens
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash&theme=dark" />
+
+### 🧩 Frameworks & Bibliotecas
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,tailwind,react&theme=dark" />
+
+### 🤖 IA & Automação
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=00ffcc)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=00ffcc)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=00ffcc)
+
+### 🗄️ Banco de Dados & Infra
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,docker,git,github,linux&theme=dark" />
 
 </div>
 
----
+<br/>
 
-# `01` — Sobre mim
-
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212284094-7c5c6f7d-6b1e-4d99-9b98-3f1f5c4a6c3f.gif">
-
-Olá! Eu sou **Fernando Souza**, estudante de **Engenharia de Software** e desenvolvedor apaixonado por tecnologia, programação e engenharia de sistemas.
-
-Atualmente concentro meus estudos e projetos principalmente em **Python, desenvolvimento backend, Django, APIs, bancos de dados, Git e Inteligência Artificial**.
-
-Tenho interesse especial em construir sistemas bem estruturados, automatizar processos e explorar aplicações de **IA, agentes inteligentes, LLMs e MCPs**.
-
-```python
-class Fernando:
-
-    role = "Software Engineer"
-
-    interests = [
-        "Backend Development",
-        "Python",
-        "Django",
-        "Artificial Intelligence",
-        "LLMs & AI Agents",
-        "Software Engineering",
-        "Automation",
-        "APIs"
-    ]
-
-    philosophy = "Build. Learn. Refactor. Repeat."
-
-    status = "Always learning..."
-```
-
-<br clear="right"/>
-
----
-
-# `02` — Tech Stack
+<!-- ============ FERRAMENTAS ============ -->
+## `> system.tools`
 
 <div align="center">
 
-### `LANGUAGES`
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" height="55"/>
-</a>
-
-<a href="https://www.java.com/">
-<img src="https://skillicons.dev/icons?i=java" height="55"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" height="55"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-<img src="https://skillicons.dev/icons?i=html" height="55"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-<img src="https://skillicons.dev/icons?i=css" height="55"/>
-</a>
-
-<br><br>
-
-### `BACKEND & FRAMEWORKS`
-
-<img src="https://skillicons.dev/icons?i=django,spring,fastapi,nodejs" height="55"/>
-
-<br><br>
-
-### `DATABASES`
-
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite,mongodb" height="55"/>
-
-<br><br>
-
-### `AI / DATA`
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="55"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
+![VSCode](https://img.shields.io/badge/VS%20Code-0f0f0f?style=for-the-badge&logo=visualstudiocode&logoColor=00ffcc)
+![PyCharm](https://img.shields.io/badge/PyCharm-0f0f0f?style=for-the-badge&logo=pycharm&logoColor=00ffcc)
+![Postman](https://img.shields.io/badge/Postman-0f0f0f?style=for-the-badge&logo=postman&logoColor=00ffcc)
+![Notion](https://img.shields.io/badge/Notion-0f0f0f?style=for-the-badge&logo=notion&logoColor=00ffcc)
+![Figma](https://img.shields.io/badge/Figma-0f0f0f?style=for-the-badge&logo=figma&logoColor=00ffcc)
+![Claude](https://img.shields.io/badge/Claude%20AI-0f0f0f?style=for-the-badge&logo=anthropic&logoColor=00ffcc)
 
 </div>
 
----
+<br/>
 
-# `03` — Ferramentas & Ambiente
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,notion,obsidian,pycharm" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=black"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
----
-
-# `04` — Projetos em destaque
+<!-- ============ PROJETOS EM CARDS ============ -->
+## `> system.projects --list`
 
 <div align="center">
 
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" align="center">
+### 💰 Finanpy
+**Gestão financeira pessoal full-stack**
 
-### 🤖 AI Agent
+Sistema web construído com Django + TailwindCSS para controle de finanças pessoais, com PRD detalhado, design system próprio e roadmap em sprints.
 
-Sistema de agente inteligente desenvolvido com Python, LangChain, OpenAI e ferramentas externas através de MCP.
+`Django` `TailwindCSS` `PostgreSQL` `PRD-driven`
 
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/SEU_USUARIO_GITHUB">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-00ffcc?style=for-the-badge&logo=github&logoColor=0f0f0f)](https://github.com/SEU_USUARIO/finanpy)
 
 </td>
+<td width="50%">
 
-<td width="50%" align="center">
+### 🤖 AI Agent Core
+**Agente inteligente com LangChain + LangGraph**
 
-### 🚗 Django System
+Agente construído sobre OpenAI e LangGraph, com integração a servidores MCP (Smithery) para expandir capacidades e ferramentas externas.
 
-Sistema web desenvolvido com Django, banco de dados e arquitetura voltada para gerenciamento de informações.
+`LangChain` `LangGraph` `OpenAI` `MCP`
 
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/SEU_USUARIO_GITHUB">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-00ffcc?style=for-the-badge&logo=github&logoColor=0f0f0f)](https://github.com/SEU_USUARIO/ai-agent-core)
 
 </td>
-
 </tr>
-
 <tr>
+<td width="50%">
 
-<td width="50%" align="center">
+### 🎮 Pygame Project
+**Jogo 2D com arquitetura orientada a objetos**
 
-### 📊 Data Science
+Desenvolvido como projeto acadêmico, com máquina de estados de jogo, hierarquia de classes OOP e estrutura multi-arquivo bem organizada.
 
-Projeto de análise e exploração de dados utilizando Python, Pandas, Jupyter Notebook e visualização de dados.
+`Python` `Pygame` `State Machine` `OOP`
 
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/SEU_USUARIO_GITHUB">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-00ffcc?style=for-the-badge&logo=github&logoColor=0f0f0f)](https://github.com/SEU_USUARIO/pygame-project)
 
 </td>
+<td width="50%">
 
-<td width="50%" align="center">
+### 📊 ETL Porsche Sales
+**Pipeline de tratamento de dados**
 
-### 🔌 REST APIs
+Script Python para sanitização e reformatação de dados de vendas em Excel, com parsing robusto para múltiplos tipos de colunas.
 
-Desenvolvimento de APIs e aplicações backend utilizando Python, Django, Spring Boot e ferramentas de teste.
+`Python` `Pandas` `ETL` `Data Cleaning`
 
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-
-<br><br>
-
-<a href="https://github.com/SEU_USUARIO_GITHUB">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00E5FF?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+[![Repo](https://img.shields.io/badge/Ver_Reposit%C3%B3rio-00ffcc?style=for-the-badge&logo=github&logoColor=0f0f0f)](https://github.com/SEU_USUARIO/etl-porsche-sales)
 
 </td>
-
 </tr>
 </table>
 
 </div>
 
----
+<br/>
 
-# `05` — Current Mission
+<!-- ============ OBJETIVOS ATUAIS (TERMINAL) ============ -->
+## `> system.current_objectives`
 
-<div align="center">
+```bash
+fernando@dev:~$ cat objetivos.txt
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                    CURRENT_OBJECTIVES                       │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  > [██████████████████░░] Python             90%           │
-│  > [████████████████░░░░] Django             80%           │
-│  > [███████████████░░░░░] Backend            75%           │
-│  > [██████████████░░░░░░] Artificial AI      70%           │
-│  > [████████████░░░░░░░░] LLM / Agents       65%           │
-│  > [███████████░░░░░░░░░] Cloud / DevOps     55%           │
-│                                                             │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  NEXT TARGETS                                               │
-│                                                             │
-│  → Build scalable backend systems                           │
-│  → Improve software architecture                             │
-│  → Build autonomous AI agents                               │
-│  → Explore MCP ecosystem                                    │
-│  → Improve DevOps & Cloud skills                            │
-│  → Contribute to Open Source                                │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+[✓] Dominar Programação Orientada a Objetos em Python
+[✓] Estruturar e lançar o MVP do Finanpy
+[~] Aprofundar arquitetura de Agentes de IA (LangChain/LangGraph)
+[~] Explorar integrações via protocolo MCP
+[ ] Contribuir com projetos open-source relevantes
+[ ] Publicar estudos e artigos técnicos sobre Engenharia de Software
+
+fernando@dev:~$ _
 ```
 
-</div>
+<br/>
 
----
-
-# `06` — GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Fernando's%20GitHub%20Stats"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&langs_count=8&theme=transparent&hide_border=true&custom_title=Most%20Used%20Languages"/>
-
-</div>
-
-<br>
+<!-- ============ GITHUB STATS ============ -->
+## `> system.analytics`
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO_GITHUB&theme=transparent&hide_border=true&mode=weekly" width="75%"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f0f0f&title_color=00ffcc&icon_color=00ffcc&text_color=c9d1d9&ring_color=00ffcc"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f0f0f&title_color=00ffcc&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=dark&hide_border=true&background=0f0f0f&ring=00ffcc&fire=00ffcc&currStreakLabel=00ffcc&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&bg_color=0f0f0f&color=00ffcc&line=00ffcc&point=ffffff&hide_border=true&area=true" width="95%"/>
 
 </div>
 
----
+<br/>
 
-# `07` — Contribution Activity
+<!-- ============ TROPHIES ============ -->
+## `> system.achievements`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO_GITHUB&bg_color=00000000&color=00e5ff&line=00e5ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+![Trophies](https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=12&column=7)
 
 </div>
 
----
+<br/>
 
-# `08` — GitHub Trophies
+<!-- ============ SNAKE ANIMATION ============ -->
+## `> system.contribution_matrix`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO_GITHUB&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>⚙️ Anime a cobra com o workflow oficial: <a href="https://github.com/Platane/snk">Platane/snk</a> — gera o SVG acima automaticamente via GitHub Actions.</sub>
 
 </div>
 
----
+<br/>
 
-# `09` — Snake Contribution Animation
+<!-- ============ REDES SOCIAIS ============ -->
+## `> system.connect`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SEU_USUARIO_GITHUB/SEU_USUARIO_GITHUB/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f0f0f?style=for-the-badge&logo=linkedin&logoColor=00ffcc)](https://linkedin.com/in/SEU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=00ffcc)](https://github.com/SEU_USUARIO)
+[![Instagram](https://img.shields.io/badge/Instagram-0f0f0f?style=for-the-badge&logo=instagram&logoColor=00ffcc)](https://instagram.com/SEU_USUARIO)
+[![Gmail](https://img.shields.io/badge/Email-0f0f0f?style=for-the-badge&logo=gmail&logoColor=00ffcc)](mailto:seuemail@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-0f0f0f?style=for-the-badge&logo=discord&logoColor=00ffcc)](https://discord.com/users/SEU_USUARIO)
 
 </div>
 
----
+<br/>
 
-# `10` — Engineering Mindset
-
+<!-- ============ RODAPÉ ============ -->
 <div align="center">
 
-> **"First make it work. Then make it right. Then make it fast."**
+```bash
+fernando@dev:~$ echo "Conectando código, lógica e criatividade."
+> Conectando código, lógica e criatividade.
 
-<br>
-
-```text
-                    ┌──────────────────┐
-                    │     PROBLEM      │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │     ANALYZE      │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │      BUILD      │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │      TEST       │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │    REFACTOR     │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │     DEPLOY      │
-                    └────────┬─────────┘
-                             │
-                             └───────────────► REPEAT
+fernando@dev:~$ exit
+> Sessão encerrada. Obrigado pela visita. 👋
 ```
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:00ffcc,100:0f0f0f&height=120&section=footer"/>
 
----
-
-# `11` — Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/SEU_USUARIO_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:SEU_EMAIL">
-<img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Open%20to-Learning%20%26%20Collaboration-00E5FF?style=for-the-badge"/>
-
-</div>
-
----
-
-<!-- ========================================================= -->
-
-<!--                         FOOTER                            -->
-
-<!-- ========================================================= -->
-
-<div align="center">
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:111827,50:0f172a,100:020617"/>
-
-### `SYSTEM STATUS: ONLINE`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Built+with+Python+%7C+Django+%7C+AI;Keep+learning.+Keep+building.;%E2%9A%A1+Engineering+the+future+one+commit+at+a+time."/>
-
-<br>
-
-<sub>© 2026 Fernando Souza • Software Engineering • Built with curiosity and code.</sub>
+<sub>💡 Feito com Markdown, HTML, café e algumas linhas de Python.</sub>
 
 </div>

@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO_GITHUB&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=fernando-antonio-souza&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -35,7 +35,7 @@
 │                    FERNANDO OS v2.0                          │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  [✓] Software Engineer......................... ONLINE                 │
+│  [✓] Software Engineer......................... ONLINE       │
 │  [✓] Python Runtime................. ONLINE                 │
 │  [✓] Django Framework............... ONLINE                 │
 │  [✓] Artificial Intelligence....... ONLINE                 │
@@ -106,7 +106,7 @@ class Fernando:
 
 ### `BACKEND & FRAMEWORKS`
 
-<img src="https://skillicons.dev/icons?i=django,spring,fastapi,nodejs" height="55"/>
+<img src="https://skillicons.dev/icons?i=django,langchain" height="55"/>
 
 <br><br>
 

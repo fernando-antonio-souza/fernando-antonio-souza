@@ -24,35 +24,6 @@
 
 <div align="center">
 
-### `SYSTEM://BOOT_SEQUENCE`
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                    FERNANDO OS v2.0                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  [✓] Software Engineer......................... ONLINE       │
-│  [✓] Python Runtime................. ONLINE                 │
-│  [✓] Django Framework............... ONLINE                 │
-│  [✓] Artificial Intelligence....... ONLINE                 │
-│  [✓] Git / GitHub................... ONLINE                 │
-│  [✓] Continuous Learning............ ACTIVE                 │
-│                                                              │
-│  STATUS: BUILDING THE FUTURE...                             │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/images/typing.gif" width="500" alt="Terminal Animation"/>
-
-</div>
-
 ---
 
 # `01` — Sobre mim

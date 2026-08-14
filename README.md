@@ -14,10 +14,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=fernando-antonio-souza&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS"/>
-
-</div>
-
 ---
 
 <!-- ========================================================= -->

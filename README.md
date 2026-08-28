@@ -22,7 +22,7 @@
 
 Sou **Fernando Souza**, estudante de **Engenharia de Software**.
 
-Atualmente foco meus estudos e projetos em **Python, Django, backend, bancos de dados e Inteligência Artificial**.
+Atualmente foco meus estudos e projetos em **Python, Django, backend, APIs REST, bancos de dados e Inteligência Artificial**.
 
 ```python
 class Fernando:
@@ -32,6 +32,8 @@ class Fernando:
     stack = ["Python", "Django"]
 
     databases = ["MySQL", "PostgreSQL"]
+
+    learning = ["APIs REST", "Django REST Framework"]
 
     interests = ["Backend", "Artificial Intelligence"]
 
@@ -57,6 +59,12 @@ class Fernando:
 ### `BACKEND`
 
 <img src="https://skillicons.dev/icons?i=django" height="55"/>
+
+<br><br>
+
+### `API`
+
+<img src="https://img.shields.io/badge/REST-Django%20REST%20Framework-0F172A?style=for-the-badge"/>
 
 <br><br>
 

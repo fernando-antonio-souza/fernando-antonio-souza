@@ -22,19 +22,6 @@ Meu foco atualmente é back-end , Python ,Django, DRF, FastAPI, PostgreSQL, Dock
 
 Fora dos projetos de curso, mantenho uma VPS Linux onde rodo minhas próprias ferramentas: painel de observabilidade de agentes, rotinas agendadas e um assistente pessoal.
 
-## Projetos em destaque
-
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| **[sge](https://github.com/fernando-antonio-souza/sge)** | Sistema de gestão de estoque com CRUD completo, dashboard de indicadores e um agente de IA que analisa os dados de estoque via API da OpenAI | Django 6.1 · DRF · JWT · PostgreSQL · Docker |
-| **[chat-bot-rag](https://github.com/fernando-antonio-souza/chat-bot-rag)** | Chat que responde perguntas sobre PDFs com RAG: ingestão, embeddings no ChromaDB e geração ancorada nos trechos recuperados | Streamlit · LangChain · ChromaDB · OpenAI |
-| **[mp_api_checkout](https://github.com/fernando-antonio-souza/mp_api_checkout)** | Checkout com Pix, cartão e boleto integrado direto à API de Payments do Mercado Pago, com cliente HTTP próprio (sem SDK) | FastAPI · Jinja2 · Tailwind |
-| **[projeto-ciencia-de-dados](https://github.com/fernando-antonio-souza/projeto-ciencia-de-dados)** | Previsão de preços de imóveis do Airbnb: limpeza, análise exploratória, tratamento de outliers e modelos de regressão | Python · pandas · scikit-learn |
-| **[Baozi Store API](https://github.com/fernando-antonio-souza/trabalho-faculdade-baozi-store-api)** | API REST de uma loja fictícia (clientes, produtos, pedidos) — disciplina de Desenvolvimento Web Back-End | Java 21 · Spring Boot · JPA · H2 |
-
-Outros repositórios: [dashboard de relatórios com IA](https://github.com/fernando-antonio-souza/aceleracao_ai_reports_dio_dashboard) (DIO) · [jogo 2D em Pygame](https://github.com/fernando-antonio-souza/apocalyzoombie-demo-v1) (trabalho de faculdade) · [organizador de arquivos](https://github.com/fernando-antonio-souza/organizador-de-extensao) · [simulador de investimentos em Excel](https://github.com/fernando-antonio-souza/simulacao-de--investimentos).
-
-Projetos em repositórios privados, com código disponível sob solicitação: **Jarvis** (assistente por voz com STT/TTS em pt-BR, roteador de skills e camada de LLM plugável), **central de operações** (painel de observabilidade de agentes em VPS com nginx e TLS) e **bot de atendimento no WhatsApp** (FastAPI + ChromaDB).
 
 ## Stack
 

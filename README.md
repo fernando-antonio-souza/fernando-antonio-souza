@@ -16,11 +16,11 @@
 
 ## Sobre
 
-Cursando Engenharia de Software na UNINTER e aprendendo pelo método que funciona comigo: **cada estudo vira um repositório que roda de verdade**.
+Cursando Engenharia de Software na UNINTER.
 
-Meu foco é back-end em Python — Django, DRF, FastAPI — com bancos de dados relacionais e IA aplicada: RAG sobre documentos, agentes com LLM, automações e dashboards.
+Meu foco atualmente é back-end , Python ,Django, DRF, FastAPI, PostgreSQL, Docker, Desenvolvimento assitido com IA
 
-Fora dos projetos de curso, mantenho uma VPS Linux onde rodo minhas próprias ferramentas: painel de observabilidade de agentes, rotinas agendadas e um assistente pessoal por voz.
+Fora dos projetos de curso, mantenho uma VPS Linux onde rodo minhas próprias ferramentas: painel de observabilidade de agentes, rotinas agendadas e um assistente pessoal.
 
 ## Projetos em destaque
 

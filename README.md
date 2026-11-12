@@ -25,8 +25,8 @@ Fora dos projetos de curso, mantenho uma VPS Linux onde rodo minhas próprias fe
 
 ## Stack
 
-- **Linguagens** — Python, Java, SQL, HTML/CSS, JavaScript (básico)
-- **Back-end** — Django, Django REST Framework, FastAPI, Streamlit, autenticação JWT
+- **Linguagens** — Python, SQL
+- **Back-end** — Django, Django REST Framework, FastAPI
 - **IA aplicada** — API da OpenAI (GPT-4o/4o-mini), RAG com LangChain e ChromaDB, prompt engineering, agentes com tools/MCP, STT e TTS
 - **Dados** — pandas, scikit-learn, PostgreSQL, SQLite, openpyxl
 - **Infra e ferramentas** — Git/GitHub, Docker e Docker Compose, uv, Linux (VPS), nginx, TLS, systemd, cron
@@ -38,6 +38,5 @@ Fora dos projetos de curso, mantenho uma VPS Linux onde rodo minhas próprias fe
 <a href="mailto:fernandonando19@outlook.com"><img src="https://img.shields.io/badge/E--mail-1B1B1F?style=for-the-badge&logo=maildotru&logoColor=white" height="26"></a>
 <a href="https://github.com/fernando-antonio-souza"><img src="https://img.shields.io/badge/GitHub-1B1B1F?style=for-the-badge&logo=github&logoColor=white" height="26"></a>
 
-<sub>Aberto a estágio e colaboração em projetos de back-end e IA aplicada · Currículo sob solicitação</sub>
 
 </div>

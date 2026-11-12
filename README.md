@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:0f172a,100:111827&text=FERNANDO%20SOUZA&fontColor=00E5FF&fontSize=44&fontAlignY=36&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Python%20%7C%20Django%20%7C%20IA&descAlignY=58&descSize=15&animation=twinkling" width="100%" alt="Fernando Souza"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=84&lines=%3E+construindo+com+Python%2C+Django+e+IA;%3E+Django+%C2%B7+DRF+%C2%B7+FastAPI+%C2%B7+PostgreSQL;%3E+agentes%2C+RAG+e+automa%C3%A7%C3%B5es+em+produ%C3%A7%C3%A3o" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=800&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=84&lines=%3E+construindo+com+Python%2C+Django+e+IA;%3E+Django+%C2%B7+DRF+%C2%B7+FastAPI+%C2%B7+PostgreSQL;%3E+Desenvolvimento+assistido+com+IA+RAG+e+automa%C3%A7%C3%B5es+em+produ%C3%A7%C3%A3o" alt="Typing SVG"/>
 
 <img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=00E5FF" height="22">
 <img src="https://img.shields.io/badge/Django-020617?style=flat-square&logo=django&logoColor=00E5FF" height="22">

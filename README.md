@@ -1,18 +1,16 @@
 <div align="center">
 
-# Fernando Souza
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:020617,50:0f172a,100:111827&text=FERNANDO%20SOUZA&fontColor=00E5FF&fontSize=44&fontAlignY=36&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Python%20%7C%20Django%20%7C%20IA&descAlignY=58&descSize=15&animation=twinkling" width="100%" alt="Fernando Souza"/>
 
-**Estudante de Engenharia de Software · Python · Django · IA aplicada**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=%3E+construindo+software+com+Python+e+LLMs;%3E+Django+%C2%B7+DRF+%C2%B7+FastAPI+%C2%B7+PostgreSQL;%3E+agentes%2C+RAG+e+automa%C3%A7%C3%B5es+em+produ%C3%A7%C3%A3o;%3E+status%3A+aprendendo+construindo" alt="Typing SVG"/>
 
-Construo aplicações web em Python/Django — e coloco LLMs dentro delas.
-
-<img src="https://img.shields.io/badge/Python-1B1B1F?style=flat-square&logo=python&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/Django-1B1B1F?style=flat-square&logo=django&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/DRF-1B1B1F?style=flat-square&logo=django&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/FastAPI-1B1B1F?style=flat-square&logo=fastapi&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/PostgreSQL-1B1B1F?style=flat-square&logo=postgresql&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/Docker-1B1B1F?style=flat-square&logo=docker&logoColor=white" height="22">
-<img src="https://img.shields.io/badge/OpenAI_API-1B1B1F?style=flat-square&logo=openai&logoColor=white" height="22">
+<img src="https://img.shields.io/badge/Python-020617?style=flat-square&logo=python&logoColor=00E5FF" height="22">
+<img src="https://img.shields.io/badge/Django-020617?style=flat-square&logo=django&logoColor=00E5FF" height="22">
+<img src="https://img.shields.io/badge/DRF-020617?style=flat-square&logo=django&logoColor=00E5FF" height="22">
+<img src="https://img.shields.io/badge/FastAPI-020617?style=flat-square&logo=fastapi&logoColor=00E5FF" height="22">
+<img src="https://img.shields.io/badge/PostgreSQL-020617?style=flat-square&logo=postgresql&logoColor=00E5FF" height="22">
+<img src="https://img.shields.io/badge/Docker-020617?style=flat-square&logo=docker&logoColor=00E5FF" height="22">
+<img src="https://img.shields.io/badge/OpenAI_API-020617?style=flat-square&logo=openai&logoColor=00E5FF" height="22">
 
 </div>
 
